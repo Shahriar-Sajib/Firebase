@@ -1,2 +1,2 @@
-let points =1000;
-alert(points);
+var points = 100;
+console.log('Points variable is defined:', points);
